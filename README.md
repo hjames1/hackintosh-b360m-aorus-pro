@@ -14,3 +14,8 @@ CPU：Intel® Core™ i7-8700 Processor
 - IMessage、FaceTime正常
 
 暂时未发现有问题的地方...
+
+# 关于双系统
+我使用的是双系统，win10+mac10.15.5 (19F101),win系统使用RTX2060独显。
+
+实现win+NV显卡的方案是：mac使用dp线插入主板的dp接口，win使用hdmi插入独显的hdmi接口，在win系统下面将两个显示器都作为输出。在需要用到独显的时候（玩游戏），使用显示器切换输入源，同事win把独显作为主力输出。
